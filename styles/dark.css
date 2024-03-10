@@ -21,10 +21,6 @@
   --main-subtitle-color: #000028;
   --link-shadow-color: #FF0070;
   --background-image: url(../images/cover-image-dark.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,9 +37,5 @@
     --main-subtitle-color: #000028;
     --link-shadow-color: #FF0070;
     --background-image: url(../images/cover-image-dark.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;    
   }
 }

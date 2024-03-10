@@ -21,10 +21,6 @@
   --main-subtitle-color: #353430;
   --link-shadow-color: #F1B2CE;
   --background-image: url(../images/cover-image-light.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
 }
 
 .page.theme_light .header__decorative-item {
@@ -49,10 +45,6 @@
   --main-subtitle-color: #353430;
   --link-shadow-color: #F1B2CE;
   --background-image: url(../images/cover-image-light.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
   }
 
   .header__decorative-item {
@@ -63,7 +55,3 @@
     display: none;
   }
 }
-
-
-
-
