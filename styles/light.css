@@ -47,11 +47,13 @@
   --background-image: url(../images/cover-image-light.png);
   }
 
-  .header__decorative-item {
+  .page.theme_light .header__decorative-item,
+  .page.theme_auto .header__decorative-item {
     display: none;
   }
   
-  .header__decorative-item::after {
+  .page.theme_light .header__decorative-item::after,
+  .page.theme_auto .header__decorative-item::after {
     display: none;
   }
 }
